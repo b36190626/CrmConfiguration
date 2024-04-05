@@ -15,7 +15,7 @@ spring:
   h2:
     console:
       enabled: true
-      path: customerservice/h2-console
+      path: /h2-console
 eureka:
   client:
     fetchRegistry: true
